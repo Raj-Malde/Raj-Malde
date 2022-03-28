@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raj-Malde
-- 👀 I’m interested in code, crypto, cybersec and everything related to IT
+- 👀 I’m interested in coding, crypto and IT.
 - 🌱 I’m currently learning python, cybersecurity.
 - 📫 How to reach me - email me rajmalde56@gmail.com
 <!---
